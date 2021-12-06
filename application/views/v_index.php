@@ -1,7 +1,7 @@
 <section>
 <link rel="stylesheet" type="text/css" href="<?php echo base_url() 
 ?>assets/css/stylebuku.css">
-    <h1><?php echo $judul ?></h1>
+    <h1 style="color:DodgerBlue;"><?php echo $judul ?></h1>
     <p align='justify'>Jadi biologi terdiri dari kata bios  : kehidupan dan logos : ilmu. Biologi itu tuh ilmu yang mempelajari seluk beluk kehidupan.
         Nah bisa bentuk kehidupan yg sekarang, yang udah mati, atau yg bakalan ada di masa dpn. 
         Bisa yg mikron kyk virus ukurannya smpe segede paus. Bisa yg hidup di darat, air, udara, bahkan smpe lahar panas sekalipun kalo ada yg mampu hidup disana masih di bahas di biologi.

@@ -2,21 +2,21 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Web Prog II | Merancang Template sederhana dengan codeigniter</title>
+    <title>MATFISKIMBIO SMA </title>
     <link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/css/stylebuku.css">
 </head>
 <body>
     <div id="wrapper">
-        <header>
+        <header> 
             <hgroup>
-                <h1>NURMASITA ANDINI</h1>
-                <h3>19200953</h3>
+                <h1 style="color:Tomato;"> MATFISKIMBIO SMA</h1>
+                <h3>NURMASITA ANDINI 19200953</h3>
             </hgroup>
             <nav>
                 <ul>
-                    <li><a href="<?php echo base_url().'web' ?>">Home</a></li>
-                    <li><<a href="<?php echo base_url().'web/profil' ?>">Profil</a></li>
-                    <li><a href="<?php echo base_url().'web/about' ?>">About</a></li>
+                    <li><a href="<?php echo base_url().'autentifikasi/login' ?>" style="color:Tomato;"> <b> LOGIN </b> </a></li>
+                    <li><a href="<?php echo base_url().'web/profil' ?>" style="color:Tomato;"> <b>EXTRACURRICULAR</b></a></li>
+                    <li><a href="<?php echo base_url().'web/about' ?>" style="color:Tomato;"> <b>MATERI</b> </a></li>
                 </ul>
             </nav>
             <div class="clear"></div>
